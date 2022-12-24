@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/WeatherIndia/static/css/main.5377565e.css",
-    "main.js": "/WeatherIndia/static/js/main.906970b9.js",
+    "main.js": "/WeatherIndia/static/js/main.bb1cdc67.js",
     "index.html": "/WeatherIndia/index.html",
     "main.5377565e.css.map": "/WeatherIndia/static/css/main.5377565e.css.map",
-    "main.906970b9.js.map": "/WeatherIndia/static/js/main.906970b9.js.map"
+    "main.bb1cdc67.js.map": "/WeatherIndia/static/js/main.bb1cdc67.js.map"
   },
   "entrypoints": [
     "static/css/main.5377565e.css",
-    "static/js/main.906970b9.js"
+    "static/js/main.bb1cdc67.js"
   ]
 }
